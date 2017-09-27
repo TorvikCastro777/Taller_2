@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="registrar">Registrar</string>
+    <string name="sis">Sistema Operativo</string>
+    <string name="ram">RAM(GB)</string>
+    <string name="color">Color</string>
+    <string name="precio">Precio</string>
+    <string name="nokia">Nokia</string>
+    <string name="huawei">Huawei</string>
+    <string name="samsung">Samsung</string>
+    <string name="apple">Apple</string>
+    <string name="android">Android</string>
+    <string name="ios">IOs</string>
+    <string name="negro">Negro</string>
+    <string name="blanco">Blanco</string>
+    <string name="dorado">Dorado</string>
+    <string name="rojo">Rojo</string>
+    <string name="mem1">1 GB</string>
+    <string name="mem2">2GB</string>
+    <string name="mem3">3GB</string>
+    <string name="mem4">4GB</string>
+    <string-array name="marcas">
+        <item>@string/samsung</item>
+        <item>@string/apple</item>
+        <item>@string/huawei</item>
+        <item>@string/nokia</item>
+    </string-array>
+    <string-array name="sop">
+        <item>@string/android</item>
+        <item>@string/ios</item>
+    </string-array>
+    <string-array name="colores">
+        <item>@string/negro</item>
+        <item>@string/blanco</item>
+        <item>@string/dorado</item>
+        <item>@string/rojo</item>
+    </string-array>
+    <string name="crear">Crear Celulares</string>
+    <string name="listado">Listado</string>
+    <array name="Opciones">
+        <item>@string/crear</item>
+        <item>@string/listado</item>
+    </array>
+    <string name="listar">Listar Celulares</string>
+    <array name="Listados">
+        <item>@string/listar</item>
+    </array>
+    <string name="guardar">Guardar</string>
+    <string name="borrar">Borrar</string>
+    <string name="numero">N°</string>
+    <string name="memoria1">Capacidad</string>
+    <array name="memorias">
+        <item>@string/mem1</item>
+        <item>@string/mem2</item>
+        <item>@string/mem3</item>
+        <item>@string/mem4</item>
+    </array>
+    <string name="modelos">Modelos de celular</string>
+    <string name="memoria">Memoria Ram</string>
+    <string name="mensaje1">Datos Almacenados correctamente</string>
+    <string name="error1">Ingrese el precio del equipo</string>
+    <string name="error2">El valor del equipo no puede ser \"0\"</string>
+
+</resources>
